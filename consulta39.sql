@@ -1,5 +1,5 @@
 /*
-selecciona las primeras 5 películas de la tabla "film"
+selecciona todos los actores y ordénalos por apellido en orden ascendente
 */
 select "nombre" , "apellido"
 from "actor" 
